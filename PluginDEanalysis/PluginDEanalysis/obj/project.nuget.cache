@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lCPeeHWWXmRQ0EMqhbWrYO8CpLbcvs97xpyW+iFtXlPz4l3bR9bSchTZIZg1Gmri6uIJjgEJ6gg9hO78oeYkKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shyu\\source\\repos\\PluginDEanalysis\\PluginDEanalysis\\PluginDEanalysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shyu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\shyu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\bin\Debug\netstandard2.0\PluginDEanalysis.deps.json
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\bin\Debug\netstandard2.0\PluginDEanalysis.dll
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\bin\Debug\netstandard2.0\PluginDEanalysis.pdb
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\bin\Debug\netstandard2.0\BaseLibS.dll
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\bin\Debug\netstandard2.0\PerseusApi.dll
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\bin\Debug\netstandard2.0\PluginInterop.dll
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\bin\Debug\netstandard2.0\BaseLib.dll
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\obj\Debug\netstandard2.0\PluginDEanalysis.csproj.AssemblyReference.cache
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\obj\Debug\netstandard2.0\PluginDEanalysis.Properties.Resources.resources
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\obj\Debug\netstandard2.0\PluginDEanalysis.csproj.GenerateResource.cache
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\obj\Debug\netstandard2.0\PluginDEanalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\obj\Debug\netstandard2.0\PluginDEanalysis.AssemblyInfoInputs.cache
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\obj\Debug\netstandard2.0\PluginDEanalysis.AssemblyInfo.cs
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\obj\Debug\netstandard2.0\PluginDEanalysis.csproj.CoreCompileInputs.cache
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\obj\Debug\netstandard2.0\PluginDEanalysis.csproj.CopyComplete
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\obj\Debug\netstandard2.0\PluginDEanalysis.dll
+C:\Users\shyu\source\repos\PluginDEanalysis\PluginDEanalysis\obj\Debug\netstandard2.0\PluginDEanalysis.pdb
